@@ -1,0 +1,28 @@
+Field,Property A,Property B
+Location,"Bangalore, India","Pune, India"
+Property Type,2 BHK Apartment,3 BHK Villa
+Purchase Price (INR),5000000,4500000
+Down Payment (%),20,20
+Loan Term (Years),20,20
+Interest Rate (%),8,8.5
+Annual Property Tax (INR),12000,15000
+Annual Insurance (INR),8000,10000
+Maintenance Cost (%),3% of property price,3.5% of property price
+Monthly Rent (INR),25000,22000
+Vacancy Rate (%),5,8
+Annual Rent Increase (%),4,3
+Annual Appreciation (%),5,4
+Holding Period (Years),10,10
+Operating Expenses (% of rent),25,30
+Initial Loan Amount (INR),4000000,3600000
+EMI (Monthly),33458,31401
+Gross Annual Rent,300000,264000
+Vacancy Loss,15000,21120
+Net Rent,285000,242880
+Operating Expenses,71250,72864
+Loan Payments (Annual),401500,376812
+Property Tax + Insurance,20000,25000
+Net Annual Cash Flow,-207750,-231796
+Property Value in Yr 10,8144473,6660693
+Outstanding Loan Balance,2500000,2200000
+Net Sale Proceeds,5644473,4460693
